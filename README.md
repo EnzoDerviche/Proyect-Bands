@@ -18,7 +18,7 @@ Para clonar y correr esta aplicacion se necesita [Git](https://git-scm.com) y [n
 $ git clone https://github.com/EnzoDerviche/challengeNubceo.git
 
 # Ir al a carpeta
-$ cd client
+$ cd challengeNubceo/client
 ```
 
 ## Para correr
