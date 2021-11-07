@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    Challenge tecnico para Nubceo
-</h1>
-
 <p align="center">
   <a href="#set-up">Set up</a> •
   <a href="#para-correr">Para correr</a> •
